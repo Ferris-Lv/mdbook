@@ -1,0 +1,6 @@
+[book]
+authors = ["Ferris-Lv"]
+language = "en"
+multilingual = false
+src = "src"
+title = "my book"
